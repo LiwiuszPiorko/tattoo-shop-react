@@ -1,0 +1,13 @@
+footer{
+    width: 55%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+.footer h1{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: .7vw;
+}
